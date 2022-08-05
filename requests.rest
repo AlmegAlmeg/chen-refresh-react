@@ -1,0 +1,5 @@
+GET http://localhost:1337/api/products
+
+###
+GET http://localhost:1337/api/products/4
+
